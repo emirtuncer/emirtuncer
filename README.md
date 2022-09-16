@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/19696784/190815488-5d83f560-aedb-46e8-be51-c4e7c17e789d.png)
-
+<a href="https://app.daily.dev/grintaux"><img src="https://api.daily.dev/devcards/e4efe84852854da385b27022f5fadda5.png?r=37q" width="400" alt="Emir Tuncer's Dev Card"/></a>
 
 [![Emir's github stats](https://github-readme-stats.vercel.app/api?username=emirtuncer&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
