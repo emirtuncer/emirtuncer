@@ -1,4 +1,5 @@
 ![Metrics](/metrics.classic.svg)
+![Metrics](/metrics.plugin.topics.icons.svg)
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
