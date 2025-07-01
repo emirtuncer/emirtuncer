@@ -1,8 +1,6 @@
-[![HitCount](https://hits.dwyl.com/emirtuncer/emirtuncer.svg?style=flat-square)](http://hits.dwyl.com/emirtuncer/emirtuncer)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=2500&pause=500&color=4FC9FF&random=true&width=435&height=75&lines=Hi%2C+I'm+Emir.;I+like+to+try+new+things.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BBBBBB&background=000000&center=true&vCenter=true&width=435&lines=Typing%2C+typer.)](https://git.io/typing-svg)
 
 ![Metrics](/metrics.classic.svg)
-![Metrics](/metrics.plugin.topics.icons.svg)
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
